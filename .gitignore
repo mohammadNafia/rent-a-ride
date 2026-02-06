@@ -1,0 +1,44 @@
+# .NET Backend
+**/bin/
+**/obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+
+# Node.js Frontend
+**/node_modules/
+**/dist/
+**/build/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.local.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+log.txt
+
+# Test results
+TestResults/
+coverage/
+
+# Cache
+.eslintcache
+.cache/
+*.tsbuildinfo
